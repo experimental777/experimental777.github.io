@@ -5747,7 +5747,7 @@ function MkDaysLeft(sDeadLineDate, sDeadLineText){
     }
     var sLeftText = sDaysText == "день" ? "остался" : "осталось";
     return sDeadLineText + " " + sLeftText + " " + nDaysLeft + " " + sDaysText + ".";
-  }else return "Вот и тесты";
+  }else return "Хорош учить. Пока ты грызешь гранит науки, мимо тебя проходит жизнь полная радостей и наслаждений. Зачем тебе эта микра? Наслаждайся жизнью, а не читай про микроорганизмы, готовых лишить тебя всего ";
 }
 window.onload = function() {
 document.querySelector(".status-timer").innerHTML = MkDaysLeft("May 25, 2018", "До тестов");
