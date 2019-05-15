@@ -1,0 +1,45 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Создание учения о фагоцитозе",
+        "Открытие возбудителя холеры",
+        "Открытие возбудителя туберкулеза",
+        "Получение альттуберкулина"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Ты не такой тупой каким кажешься\""
+      },
+      "number": 1,
+      "prompt": "К заслугам основоположника микробиологии Р.Коха не относится:"
+    },
+    {
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 2,
+      "prompt": "Unicorns are real?"
+    },
+    {
+      "answers": [
+        "Marshmallow",
+        "Moon glow",
+        "Egg shell"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "image": "unicorn.jpg",
+      "image_credit": "Random dude from the Interwebs",
+      "number": 3,
+      "prompt": "What shade of white is this unicorn?"
+    }
+  ],
+  "title": "Посмотрим насколько ты хорошо подготовлен к патану!",
+  "url": "http://urbaninstitute.github.io/quick-quiz/"
+}
